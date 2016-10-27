@@ -38,16 +38,16 @@ c::set('languages', array(
     'url'     => '/'
   ),
   array(
-    'name'    => 'Portugues',
-    'code'    => 'br',
-    'locale'  => 'pt_BR.utf-8',
-    'url'     => '/br'
-  ),
-  array(
     'name'    => 'Norsk',
     'code'    => 'no',
     'locale'  => 'nb_NO.utf-8',
     'url'     => '/no'
+  ),
+  array(
+    'name'    => 'Portugues',
+    'code'    => 'br',
+    'locale'  => 'pt_BR.utf-8',
+    'url'     => '/br'
   )
 ));
 
