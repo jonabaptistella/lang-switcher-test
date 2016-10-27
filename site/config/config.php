@@ -40,7 +40,7 @@ c::set('languages', array(
   array(
     'name'    => 'Norsk',
     'code'    => 'no',
-    'locale'  => 'no_NO.utf-8',
+    'locale'  => 'nb_NO.utf-8',
     'url'     => '/no'
   )
 ));
