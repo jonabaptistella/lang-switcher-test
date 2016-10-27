@@ -40,7 +40,7 @@ c::set('languages', array(
   array(
     'name'    => 'Portugues',
     'code'    => 'br',
-    'locale'  => 'pt_BR',
+    'locale'  => 'pt_BR.utf-8',
     'url'     => '/br'
   ),
   array(
