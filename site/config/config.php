@@ -38,7 +38,7 @@ c::set('languages', array(
     'url'     => '/'
   ),
   array(
-    'name'    => 'Português',
+    'name'    => 'Portugues',
     'code'    => 'br',
     'locale'  => 'pt_BR.utf-8',
     'url'     => '/br'
