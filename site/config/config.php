@@ -38,9 +38,11 @@ c::set('languages', array(
     'url'     => '/'
   ),
   array(
-    'name'    => 'Deutsch',
-    'code'    => 'de',
-    'locale'  => 'de_DE.utf-8',
-    'url'     => '/de'
+    'name'    => 'Norsk',
+    'code'    => 'no',
+    'locale'  => 'no_NO.utf-8',
+    'url'     => '/no'
   )
 ));
+
+c::set('language.detect', true);
