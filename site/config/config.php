@@ -33,20 +33,20 @@ c::set('languages', array(
   array(
     'name'    => 'English',
     'code'    => 'en',
-    'locale'  => 'en_US.utf-8',
+    'locale'  => 'en_US',
     'default' => true,
     'url'     => '/'
   ),
   array(
     'name'    => 'Portugues',
     'code'    => 'br',
-    'locale'  => 'pt_BR.utf-8',
+    'locale'  => 'pt-br',
     'url'     => '/br'
   ),
   array(
     'name'    => 'Norsk',
     'code'    => 'no',
-    'locale'  => 'nb_NO.utf-8',
+    'locale'  => 'nb-no',
     'url'     => '/no'
   )
 ));
