@@ -39,14 +39,14 @@ c::set('languages', array(
   ),
   array(
     'name'    => 'Portugues',
-    'code'    => 'br',
-    'locale'  => 'pt-BR',
+    'code'    => 'pt-BR',
+    'locale'  => 'pt_BR',
     'url'     => '/br'
   ),
   array(
     'name'    => 'Norsk',
-    'code'    => 'no',
-    'locale'  => 'nb-no',
+    'code'    => 'nb-no',
+    'locale'  => 'nb_NO',
     'url'     => '/no'
   )
 ));
